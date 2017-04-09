@@ -13,6 +13,6 @@ We implemented:
 * Co-Phylog
 * all the necessary objects for the sequential and parallel execution of all these distances, using the Map-Reduce paradigm on the Hadoop framework.
 
-made with Steven Rosario Sirchia, Luigi Lomasto, Francesco Gaetano.
+Realized by Steven Rosario Sirchia, Luigi Giugliano, Luigi Lomasto, Francesco Gaetano.
 
 1st year master (2014/2015)
